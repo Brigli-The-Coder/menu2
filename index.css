@@ -18,16 +18,12 @@ footer{
     margin: auto;
 }
 center{
-    color: aqua;
+    color: white;
     font-size: 1.3rem;
     width: 80vw;
     margin: auto;
-}
-.btn1{
-    padding: 10px 20px;
-    background-color: aqua;
-   font-size: 1.3rem;
-    color: white;
+    background-color: orange;
+    border-radius: 10px;
 }
 .footer{
     display: flex;
